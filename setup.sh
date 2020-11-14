@@ -10,6 +10,6 @@ brew install fzf
 mkdir ~/.bashrc.d
 chmod 700 ~/.bashrc.d
 
-cp packvimrc ~/.vimrc
+cp .vimrc ~/.vimrc
 cp .tmux.conf ~
 cp .bashrc ~
